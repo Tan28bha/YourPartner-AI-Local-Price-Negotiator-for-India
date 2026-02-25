@@ -230,14 +230,4 @@ Even capturing a **small percentage** creates a very large market.
 * integration with mobility platforms
 * AI negotiation autopilot
 * global expansion to Southeast Asia
-
 ---
-
-# 🏆 Hackathon Impact
-
-BargainBuddy addresses a **high-frequency, high-friction real-world problem** affecting millions of Indians daily. By combining AI, location intelligence, and voice interaction, the platform demonstrates how technology can bring transparency and fairness to informal markets.
-
----
-
-
-…and I’ll design your hackathon-winning UI flow. 🚀
